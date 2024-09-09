@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=venom&text=HI%20I'M%20HALYNNN"/>
 <!--
 **HALYNNN/HALYNNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
