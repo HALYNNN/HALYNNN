@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&text=HI%20I'M%20HALYNNN"/>
+![header](https://capsule-render.vercel.app/api?type=venom&text=HI%20I'M%20HALYNNN&fontSize=50)
+
 <!--
 **HALYNNN/HALYNNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
