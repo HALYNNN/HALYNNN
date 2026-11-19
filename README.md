@@ -67,7 +67,16 @@
 
 ## 🚀 대표 프로젝트
 
-### 1. AMR 물류 자동화 시스템 · 🏆 최우수상
+### 1. Nav2 자율주행 QA 포트폴리오
+`2026.11` · 테스트 케이스 15건 · 검증 CLI 2종 · 단위 테스트 26건
+
+> ROS2 Humble · Nav2 · Python · pytest
+
+Nav2 주행 시험을 테스트 케이스 설계 → 주행 로그 검증 → 결함 리포트까지 한 흐름으로 정리한 포트폴리오입니다. 정상·경계·예외로 나눈 테스트 케이스 15건, 주행 로그(JSONL)와 라벨링 데이터셋을 검수하는 CLI 2종, 샘플 입력과 단위 테스트 26건을 담았습니다.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HALYNNN/robot-qa)
+
+### 2. AMR 물류 자동화 시스템 · 🏆 최우수상
 `2024.04 ~ 2024.06` · 6인 팀 · 애드인에듀 AI 로봇 자율주행 FINAL PROJECT
 
 > ROS2 · SLAM · PyQt5 관제 GUI · MySQL · 모듈 간 송수신 검증
@@ -77,7 +86,7 @@
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HALYNNN/ros-repo-2)
 [![시연 영상](https://img.shields.io/badge/시연%20영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/72EWf1t_NVw)
 
-### 2. 작업 부품 구분 및 표시 서비스
+### 3. 작업 부품 구분 및 표시 서비스
 `2024.03 ~ 2024.04` · 딥러닝 프로젝트
 
 > YOLOv8 객체 길이 측정 · 데이터셋 4,000장
@@ -86,7 +95,7 @@
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/addinedu-ros-4th/deeplearning-repo-1)
 
-### 3. IoT 스마트 스위치
+### 4. IoT 스마트 스위치
 `2024.03`
 
 > ESP32 · Arduino · 서보모터 · PyQt5 GUI
@@ -95,7 +104,7 @@ ESP32와 서보모터로 물리 스위치를 제어하고 PyQt5 GUI에서 조작
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/addinedu-ros-4th/iot-repo-6)
 
-### 4. 전기차·충전소 데이터 분석
+### 5. 전기차·충전소 데이터 분석
 `2024.01`
 
 > 공공데이터 크롤링 · MySQL · 시각화
