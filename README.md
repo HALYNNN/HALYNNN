@@ -109,4 +109,3 @@ ESP32와 서보모터로 물리 스위치를 제어하고 PyQt5 GUI에서 조작
 ## 📫 Contact & Links
 
 - **Email** · [jean906@naver.com](mailto:jean906@naver.com)
-- **Notion** · [Hi, I'm HALYNN](https://www.notion.so/Hi-I-m-HALYNN-97fa993d347d49a38481e60a0cbccea9?pvs=4)
