@@ -137,7 +137,7 @@ ESP32와 서보모터로 물리 스위치를 제어하고 PyQt5 GUI에서 조작
 
 ## 📈 GitHub 활동
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HALYNNN&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="HALYNNN contribution graph" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
 
 ---
 
